@@ -1,0 +1,7 @@
+D:\VisualStudio\ConsoleApp8\Conversor\bin\Debug\Conversor.exe.config
+D:\VisualStudio\ConsoleApp8\Conversor\bin\Debug\Conversor.exe
+D:\VisualStudio\ConsoleApp8\Conversor\bin\Debug\Conversor.pdb
+D:\VisualStudio\ConsoleApp8\Conversor\obj\Debug\Ej13.csprojAssemblyReference.cache
+D:\VisualStudio\ConsoleApp8\Conversor\obj\Debug\Ej13.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ConsoleApp8\Conversor\obj\Debug\Conversor.exe
+D:\VisualStudio\ConsoleApp8\Conversor\obj\Debug\Conversor.pdb
